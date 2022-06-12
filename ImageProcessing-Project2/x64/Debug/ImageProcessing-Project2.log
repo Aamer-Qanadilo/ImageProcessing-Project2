@@ -1,0 +1,47 @@
+﻿  ImageProcessing.cpp
+C:\Users\ameed\source\repos\ImageProcessing-Project2\ImageProcessing-Project2\ImageProcessing.cpp(20,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ameed\source\repos\ImageProcessing-Project2\ImageProcessing-Project2\ImageProcessing.cpp(85,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ameed\source\repos\ImageProcessing-Project2\ImageProcessing-Project2\ImageProcessing.cpp(90,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ameed\source\repos\ImageProcessing-Project2\ImageProcessing-Project2\ImageProcessing.cpp(121,14): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\ameed\source\repos\ImageProcessing-Project2\ImageProcessing-Project2\ImageProcessing.cpp(121,40): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\ameed\source\repos\ImageProcessing-Project2\ImageProcessing-Project2\ImageProcessing.cpp(122,10): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\ameed\source\repos\ImageProcessing-Project2\ImageProcessing-Project2\ImageProcessing.cpp(122,27): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\ameed\source\repos\ImageProcessing-Project2\ImageProcessing-Project2\ImageProcessing.cpp(128,53): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\ameed\source\repos\ImageProcessing-Project2\ImageProcessing-Project2\ImageProcessing.cpp(128,46): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\ameed\source\repos\ImageProcessing-Project2\ImageProcessing-Project2\ImageProcessing.cpp(151,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ameed\source\repos\ImageProcessing-Project2\ImageProcessing-Project2\ImageProcessing.cpp(156,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ameed\source\repos\ImageProcessing-Project2\ImageProcessing-Project2\ImageProcessing.cpp(179,13): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\ameed\source\repos\ImageProcessing-Project2\ImageProcessing-Project2\ImageProcessing.cpp(180,13): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  ImageProcessing-Project2.vcxproj -> C:\Users\ameed\source\repos\ImageProcessing-Project2\x64\Debug\ImageProcessing-Project2.exe
